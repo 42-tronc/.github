@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 **You landed on my CC repo for 42 School:**
 
 🙋‍♀️ I'm a student at the **42 School**
