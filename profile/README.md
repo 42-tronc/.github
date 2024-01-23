@@ -8,6 +8,4 @@
 
 👩‍💻 Planning on making public cheatsheets and tips for 42
 
-🍿 Fun facts - Graille is a scammaz
-
 🧙 Remember, peepo is a good frog
