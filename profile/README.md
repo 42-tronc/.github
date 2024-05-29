@@ -7,7 +7,7 @@ Computer Science Student at **42 Lyon**, I have a deep interest in technology an
 <div align="center">
   <h3>Languages</h3>
     <a href="https://github.com/42-tronc">
-      <img src="https://skillicons.dev/icons?i=bash,c,cpp,html,css,js" />
+      <img src="https://skillicons.dev/icons?i=bash,c,cpp,python,html,css,js" />
     </a>
   <h3>Tools</h3>
     <a href="https://github.com/42-tronc">
