@@ -1,11 +1,18 @@
-## Hi there 👋
+# I'm _maplepy_ (a.k.a. *croy*)! 🇫🇷
 
-**You landed on my CC repo for 42 School:**
+Computer Science Student at **42 Lyon**, I have a deep interest in technology and development.
 
-🙋‍♀️ I'm a student at the **42 School**
+---
 
-🌈 If you have suggestions or questions, feel free to open an issue or a discussion in the appropriate tab!
+<div align="center">
+  <h3>Languages</h3>
+    <a href="https://github.com/42-tronc">
+      <img src="https://skillicons.dev/icons?i=bash,c,cpp,html,css,js" />
+    </a>
+  <h3>Tools</h3>
+    <a href="https://github.com/42-tronc">
+      <img src="https://skillicons.dev/icons?i=linux,vim,neovim,vscode,vscodium,docker,git,github,githubactions,md,wordpress" />
+    </a>
+</div>
 
-👩‍💻 Planning on making public cheatsheets and tips for 42
-
-🧙 Remember, peepo is a good frog
+---
